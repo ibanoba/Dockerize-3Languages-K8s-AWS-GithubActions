@@ -5,13 +5,6 @@ Containerising apps from Node, Python and Spring Boot. These will then be deploy
 Github Actions will then be used for the CI/CD pipeline
 
 
-## 🎓 Learning Roadmap
-
-Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
-Here’s a structured path to enhance your skills with detailed courses available:
-
-
-
 
 # Usage Policy 
 
